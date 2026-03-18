@@ -1,5 +1,3 @@
-window.__globalAdapter = null;
-System.config({ baseURL: './' });
 System.register(["./application.js"], function (_export, _context) {
   "use strict";
 
